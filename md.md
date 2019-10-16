@@ -13,7 +13,7 @@
 # npm install mongoose
 ```
 
-![1566458028445](./photo\test_password.png)
+![1566458028445](./photo/test_password.png)
 
 DoyxA6jODwH6cFGT
 
